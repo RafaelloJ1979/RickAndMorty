@@ -97,5 +97,5 @@ async function main() {
     // zapisujemy dane z characters do info 
 }
 main()
-
+console.log('L25')
 
